@@ -53,6 +53,18 @@ Visualizations are created using Netflix brand colors:
 - **Count Plot**  
   Illustrates the number of titles by genre.
 
+## Dashboard
+
+A Power BI dashboard was created to visualize the insights from this analysis. You can view it [here](https://app.powerbi.com/links/ohLC6mZp4s?ctid=eaf624c8-a0c4-4195-87d2-443e5d7516cd&pbi_source=linkShare&bookmarkGuid=4586f22d-6f05-4be4-b266-45744cf24f91).
+
+Additionally, two dashboard themes have been created:
+
+- **Dark Mode Dashboard**  
+  ![Dark Mode](C:\Users\Abdo\Desktop\Projects\Netflix_Analysis_Project\Dark_mood.png)
+
+- **Light Mode Dashboard**  
+  ![Light Mode](C:\Users\Abdo\Desktop\Projects\Netflix_Analysis_Project\Light_Mood.png)
+
 ## Conclusion
 
 This analysis of the Netflix dataset provided insights into various aspects of the content available on the platform:
@@ -68,9 +80,5 @@ This analysis of the Netflix dataset provided insights into various aspects of t
   - Number of titles by genre.
 
 These visualizations reveal key trends and distributions in Netflix's content library. Future analyses could explore content popularity trends, viewer ratings, and personalized recommendations for even deeper insights.
-
-## Dashboard
-
-A Power BI dashboard was created to visualize the insights from this analysis. You can view it [here](https://app.powerbi.com/links/ohLC6mZp4s?ctid=eaf624c8-a0c4-4195-87d2-443e5d7516cd&pbi_source=linkShare&bookmarkGuid=4586f22d-6f05-4be4-b266-45744cf24f91).
 
 
